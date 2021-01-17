@@ -4,7 +4,7 @@
   "author": "xiaojun996 <blueskyzx@icloud.com>",
   "scripts": {
     "serve": "cargo run",
-    "build": "cargo build",
+    "build": "cargo build --release",
     "check": "cargo check"
   }
 }
