@@ -1,7 +1,7 @@
 {
   "name": "cargo-hello-world",
   "version": "0.1.0",
-  "author": "yao-zhixiang <blueskyzx@icloud.com>",
+  "author": "zhixiangyao <blueskyzx@icloud.com>",
   "scripts": {
     "serve": "cargo run",
     "build": "cargo build --release",
