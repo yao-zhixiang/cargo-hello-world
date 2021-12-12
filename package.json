@@ -5,6 +5,8 @@
   "scripts": {
     "serve": "cargo run",
     "build": "cargo build --release",
-    "check": "cargo check"
+    "check": "cargo check",
+    "lint": "cargo clippy",
+    "fmt": "cargo fmt"
   }
 }
