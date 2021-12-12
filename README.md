@@ -1,4 +1,4 @@
-# cargo-hello-world
+# rust-playground
 
 使用 Rust cargo 创建
 
