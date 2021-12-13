@@ -48,19 +48,27 @@ src
 ├── a
 │   ├── b
 │   │   ├── c
-│   │   │   ├── d.rs
+│   │   │   ├── d
+│   │   │   │    ├── test.rs
+│   │   │   │    └── mod.rs
 │   │   │   └── mod.rs
 │   │   └── mod.rs
 │   └── mod.rs
 └── main.rs
 ```
 
-`a/b/c/d.rs` 文件内容:
+`a/b/c/d/test.rs` 文件内容:
 
 ```rust
 pub fn print_ddd() {
     println!("i am ddd.");
 }
+```
+
+`a/b/c/d/mod.rs` 文件内容:
+
+```rust
+pub mod test;
 ```
 
 `a/b/c/mod.rs` 文件内容:
