@@ -94,10 +94,10 @@ pub mod b;
 ```rust
 mod a;
 
-use a::b::c::d;
+use a::b::c::d::test::print_ddd;
 
 fn main() {
-    d::print_ddd();
+  print_ddd()
 }
 ```
 
