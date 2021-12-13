@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "author": "zhixiangyao <blueskyzx@icloud.com>",
   "scripts": {
-    "serve": "cargo run",
+    "run": "cargo run",
     "build": "cargo build --release",
     "check": "cargo check",
-    "lint": "cargo clippy",
+    "clippy": "cargo clippy",
     "fmt": "cargo fmt"
   }
 }

@@ -5,7 +5,7 @@
 ### 编译且运行
 
 ```
-npm run serve
+npm run run
 ```
 
 ### 编译
@@ -17,5 +17,11 @@ npm run build
 ### 检查错误
 
 ```
-npm run check
+npm run clippy
+```
+
+### 格式化
+
+```
+npm run fmt
 ```
