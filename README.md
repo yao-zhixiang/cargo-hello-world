@@ -49,8 +49,8 @@ src
 │   ├── b
 │   │   ├── c
 │   │   │   ├── d
-│   │   │   │    ├── test.rs
-│   │   │   │    └── mod.rs
+│   │   │   │   ├── test.rs
+│   │   │   │   └── mod.rs
 │   │   │   └── mod.rs
 │   │   └── mod.rs
 │   └── mod.rs
